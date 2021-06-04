@@ -8,4 +8,3 @@ Ex.
 * maxPossible(9132, 5564) ➞ 9655
 * maxPossible(8732, 91255) ➞ 9755
 
-[Task solution](https://github.com/haykbazoyan/git_branching_task/blob/main/maxPossible.js)
